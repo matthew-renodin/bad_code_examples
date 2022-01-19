@@ -1,6 +1,6 @@
 # code_examples
 
-This was a interview question which I found odd. Most of them are memorization problems but we can use them for thinking and developing some analytical skills.
+This was an interview question which I found odd. Most of them are memorization problems but we can use them for thinking and developing some analytical skills.
 
 
 ## staircase 19 steps
