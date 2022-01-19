@@ -4,7 +4,7 @@ In a staircase problem, you try to calculate the different ways to reach the n't
 
 This is often used as an interview question. Most of these questions are memorization problems so they are well suited for new hires. For people who have been working for sometime, these questions are not that good because they really do not show the skills a person has during an interview, but we can revist these problems and use them for thinking and developing our analytical skills. 
 
-In practical terms we use this to generate a collection of all possible ways to achieve a outcome given some fixed measure. If we had 4 as a staircase (n) and this represented the outcome and we had three steps of 1,2, or 3, we would have these seven ways to get there {1,1,1,1},{1,1,2},{1,2,1},{2,1,1},{2,2},{1,3},{3,1}
+In practical terms we use this to generate a collection of all possible ways to achieve a outcome given some fixed unit of measure. If we had 4 as a staircase (n) and this represented the outcome and we had three steps of 1,2, or 3, we would have these seven ways to get there {1,1,1,1},{1,1,2},{1,2,1},{2,1,1},{2,2},{1,3},{3,1}
 
 ## staircase 19 steps
 
