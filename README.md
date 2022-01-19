@@ -17,8 +17,7 @@ My spreadsheet analysis showed me two iterative methods I could use.
 
 I coded them up in JavaScript. This is a screenshot from the browser.
 
-![image](https://user-images.githubusercontent.com/5507643/150047959-21266906-9472-4814-acb6-c3e474ef424a.png)
-
+![image](https://user-images.githubusercontent.com/5507643/150048754-db690a6a-f633-4333-9b3b-ed93cabae417.png)
 
 Both functions require you start it out with some initial data.
 
