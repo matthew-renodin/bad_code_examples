@@ -1,9 +1,10 @@
-# staircase introduction
+# staircase problem introduction
 
 In a staircase problem, you try to calculate the different ways to reach the n'th stair where you are allowed to take up to m steps at a time.
 
-This is often used as an interview question. Most of these questions are memorization problems so they are well suited for new hires. For people who have been working for sometime, these questions are not that good because they really do not show the skills a person has during an interview, but we can revist these long forgotten and unused problems use them for thinking and developing our analytical skills. 
+This is often used as an interview question. Most of these questions are memorization problems so they are well suited for new hires. For people who have been working for sometime, these questions are not that good because they really do not show the skills a person has during an interview, but we can revist these problems and use them for thinking and developing our analytical skills. 
 
+In practical terms we use this to generate a collection of all possible ways to achieve a outcome given some fixed measure. If we had 4 as a staircase (n) and this represented the outcome and we had three steps of 1,2, or 3, we would have these seven ways to get there {1,1,1,1},{1,1,2},{1,2,1},{2,1,1},{2,2},{1,3},{3,1}
 
 ## staircase 19 steps
 
@@ -24,7 +25,7 @@ I coded them up in JavaScript. This is a screenshot from the browser.
 
 Both functions require you start it out with some initial data.
 
-The b variables is what is different between them. In one case, mr_stairs1, I ended up adding the prior 3 indexes of b. In the second case, I sum the prior value in index of a,b, and c array. From what I have have found as of today, mr_stairs2 is the more common iterative version, they usually only do a 1-2 step though. These both do a 1-2-3 mix, but mr_stairs1 is quite different for summing the prior 3 indexes of the b array.
+The b variables is what is different between them. In one case, mr_stairs1, I ended up adding the prior 3 indexes of b. In the second case, I sum the prior value in index of a,b, and c array. From what I have have found as of today, mr_stairs2 is the more common iterative version, they usually only do a 1-2 step though. These both do a 1-2-3 mix, but mr_stairs1 is quite different for summing the prior three indexes of the b array. The c array I used two methods, one method sums the prior to indexes and adds two to the value, I think this is the more common. The other method uses the prior two indexes of the b-array and subtracts one. I think this is different than other approaches I have seen because I have not seen anyone do this. 
 
 ```javascript
 
