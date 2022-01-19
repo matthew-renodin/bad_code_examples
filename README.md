@@ -11,7 +11,8 @@ This is often used as an interview question. Most of these questions are memoriz
 
 I designed two iterative functions I came up with by looking at a spreadsheet.
 
-![image](https://user-images.githubusercontent.com/5507643/150047645-9c4ca817-61a1-4fe2-beb4-f16dc0cd8d11.png)
+![image](https://user-images.githubusercontent.com/5507643/150052884-efb64829-c750-48ca-80d1-b21069102467.png)
+
 
 I made the spreadhseet to help me look for patterns. 
 
