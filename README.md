@@ -1,6 +1,6 @@
 # code_examples
 
-This was an interview question which I found odd. Most of them are memorization problems but we can use them for thinking and developing some analytical skills.
+This was an interview question. Most of them are memorization problems so they are well suited for new hires. For people who have been working for sometime, these questions are not that good because they really do not show the skills a person has during an interview, but we can use them for thinking and developing our analytical skills. 
 
 
 ## staircase 19 steps
