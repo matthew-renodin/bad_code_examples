@@ -1,6 +1,8 @@
-# code_examples
+# staircase introduction
 
-This was an interview question. Most of them are memorization problems so they are well suited for new hires. For people who have been working for sometime, these questions are not that good because they really do not show the skills a person has during an interview, but we can use them for thinking and developing our analytical skills. 
+In a staircase problem, you try to calculate the different ways to reach the n'th stair where you are allowed to take up to m steps at a time.
+
+This is often used as an interview question. Most of these questions are memorization problems so they are well suited for new hires. For people who have been working for sometime, these questions are not that good because they really do not show the skills a person has during an interview, but we can revist these long forgotten and unused problems use them for thinking and developing our analytical skills. 
 
 
 ## staircase 19 steps
