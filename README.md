@@ -21,7 +21,7 @@ I coded them up in JavaScript. This is a screenshot from the browser.
 
 Both functions require you start it out with some initial data.
 
-The b variables is what is different between them. In one case, mr_stairs1, I ended up adding the prior 3 indexes of b. In the second case, I sum the prior value in index of a,b, and c array. From what I have have found as of today, mr_stairs2 is the more common iterative version, they usually only do a 1-2 step though. These both do a 1-2-3 mix, but mr_stairs1 is quite different for summing the prior 3 indexes of that array.
+The b variables is what is different between them. In one case, mr_stairs1, I ended up adding the prior 3 indexes of b. In the second case, I sum the prior value in index of a,b, and c array. From what I have have found as of today, mr_stairs2 is the more common iterative version, they usually only do a 1-2 step though. These both do a 1-2-3 mix, but mr_stairs1 is quite different for summing the prior 3 indexes of the b array.
 
 ```javascript
 
