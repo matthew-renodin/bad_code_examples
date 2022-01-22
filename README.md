@@ -23,9 +23,10 @@ I coded them up in JavaScript. This is a screenshot from the browser.
 
 ![image](https://user-images.githubusercontent.com/5507643/150048754-db690a6a-f633-4333-9b3b-ed93cabae417.png)
 
-Both functions require you start it out with some initial data.
 
-The b variables is what is different between them. In one case, mr_stairs1, I ended up adding the prior 3 indexes of b. In the second case, I sum the prior value in index of a,b, and c array. From what I have have found as of today, mr_stairs2 is the more common iterative version, they usually only do a 1-2 step though. These both do a 1-2-3 mix, but mr_stairs1 is quite different for summing the prior three indexes of the b array. The c array I used two methods, one method sums the prior to indexes and adds two to the value, I think this is the more common. The other method uses the prior two indexes of the b-array and subtracts one. I think this is different than other approaches I have seen because I have not seen anyone do this. 
+Both functions require you to start it out with some initial data.
+
+The b variables are what is different between them. In one case, mr_stairs1, I added the prior three indexes of b. In the second case, I sum the prior value in the index of a,b, and c array. From what I have found as of today, mr_stairs2 is the more common iterative version. They usually only do a 1-2 step, though. These both do a 1-2-3 mix, but mr_stairs1 is quite different for summing the prior three indexes of the b array. In the c array, I used two methods; one method sums the previous indexes and adds two to the value. I think this is the more common. The other method uses the prior two indexes of the b-array and subtracts one. I think this is different than other approaches I have seen because I have not seen anyone do this.
 
 ```javascript
 
